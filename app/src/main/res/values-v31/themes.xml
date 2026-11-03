@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Tanuki" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/tanuki_white</item>
+        <item name="android:windowSplashScreenBackground">@color/tanuki_white</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/ic_splash_logo</item>
+    </style>
+</resources>
