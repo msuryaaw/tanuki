@@ -8,6 +8,6 @@ class TanukiApplication : Application() {
 
     override fun onCreate() {
         super.onCreate()
-        container = AppContainer()
+        container = AppContainer(applicationContext)
     }
 }

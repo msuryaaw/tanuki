@@ -2,4 +2,13 @@
     <string name="app_name">Tanuki</string>
     <string name="nav_library">Library</string>
     <string name="nav_playlists">Playlists</string>
+
+    <!-- Storage Setup & SAF Onboarding -->
+    <string name="storage_setup_title">Folder Koleksi Tanuki</string>
+    <string name="storage_setup_description">Pilih folder root Tanuki pada penyimpanan lokal perangkat tempat direktori anime/ berada.</string>
+    <string name="storage_select_button">Pilih Folder Tanuki</string>
+    <string name="storage_change_button">Ganti Folder</string>
+    <string name="storage_status_configured">Folder Root Tersimpan:</string>
+    <string name="storage_status_unconfigured">Folder koleksi belum dikonfigurasi.</string>
+    <string name="storage_error_permission">Gagal menyimpan perizinan folder. Silakan coba lagi.</string>
 </resources>
